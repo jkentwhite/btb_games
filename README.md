@@ -8,7 +8,7 @@ to two seperate prototype installations, one in bushwick and one in in the curre
 of dumbo near the brooklyn bridge. i was new to coding and did not fully understand how to structure
 code or which tools to use outside of processing and arduino. though i watched a tutorial and wrote code
 for the blobs based on dan shiffman instruction, the logic i came up with to create, display, and match
-patterns was all my own. it may not be the most robust or clean code, i am proud to have figured out how to
+patterns was all my own. though it may not be the most robust or clean code, i am proud to have figured out how to
 create game play and interactivity using improper tools and development environments. perhaps a game engine
 would have been more appropriate but i was under a time constraint and determined to use the tools that i had
 experience with, even it that experience was very limited to a few class projects and my understanding of
